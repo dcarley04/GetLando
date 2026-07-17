@@ -16,7 +16,7 @@ html, body {
 body.show-teams {
   background-image: url(../img/teams.png);
   background-repeat: repeat;
-  background-size: 128px 512px; }
+  background-size: 384px 384px; }
 
 .heading {
   display: flex;
